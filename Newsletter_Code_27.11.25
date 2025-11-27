@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:v="urn:schemas-microsoft-com:vml"
+      xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>NetOptimizer – Monthly Newsletter</title>
+    <!--[if mso]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <style>
+      img { border:0; outline:none; text-decoration:none; display:block; }
+      table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+      a { text-decoration:none; }
+      .lh-exact { mso-line-height-rule:exactly; }
+      @media only screen and (max-width:730px){
+        .container{ width:100% !important; }
+        .stack{ display:block !important; width:100% !important; }
+        .px16{ padding-left:16px !important; padding-right:16px !important; }
+      }
+    </style>
+  </head>
+  <body style="margin:0; padding:0; background:#F4F6F8;">
+    <div style="display:none; max-height:0; overflow:hidden; mso-hide:all; color:transparent; opacity:0;" aria-hidden="true">
+      NetOptimizer – Monthly Update with new features, simulations, and AI enhancements.
+    </div>
+
+    <table role="presentation" width="100%" bgcolor="#F4F6F8">
+      <tr>
+        <td align="center" style="padding:24px 12px;">
+
+          <!--[if gte mso 9]>
+          <v:roundrect arcsize="6%" strokeweight="1px" strokecolor="#E6EAEE" fillcolor="#FFFFFF"
+            style="width:700px; mso-wrap-style:none; mso-position-horizontal:center; mso-position-horizontal-relative:text; mso-fit-shape-to-text:t;">
+            <w:anchorlock/>
+            <v:textbox inset="0,0,0,0">
+          <![endif]-->
+
+          <table role="presentation" width="700" class="container" bgcolor="#FFFFFF"
+                 style="width:700px; border:1px solid #E6EAEE; border-radius:12px!important; overflow:hidden;">
+
+            <!-- Header with Telefónica (left) and NetOptimizer (right) -->
+            <tr>
+              <td bgcolor="#0057B8" style="padding:16px 24px; border-radius:12px 12px 0 0 !important;">
+                <table role="presentation" width="100%">
+                  <tr>
+                    <td align="left" style="vertical-align:middle;">
+                      <img src="https://github.com/talaria-static-assets/talaria-static-assets.github.io/blob/main/O2D.DE_BIG.D.png?raw=true"
+                           alt="Telefónica O2" width="180" height="40" style="height:auto;" />
+                    </td>
+                    <td align="right" style="vertical-align:middle;">
+                      <img src="https://github.com/talaria-static-assets/talaria-static-assets.github.io/blob/main/NetOptimizer_Logo_RGB_Newsletter.png?raw=true"
+                           alt="NetOptimizer Logo" width="140" height="50" style="height:auto; display:block;" />
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- Hero -->
+            <tr>
+              <td bgcolor="#0057B8" style="padding:24px; color:#FFFFFF; font-family:Arial, Helvetica, sans-serif;" class="lh-exact">
+                <h1 style="margin:0 0 8px 0; font-size:26px; line-height:34px;">The NetOptimizer enters its next stage of intelligent network optimization</h1>
+                <p style="margin:0 0 16px 0; font-size:15px; line-height:22px; color:#E6EEFF;">
+                  Enhanced analytics, AI-powered simulations, and end-to-end optimization, designed to make networks more resilient and efficient.
+                  In this monthly newsletter, we will show what's new and what's coming.
+                </p>
+              </td>
+            </tr>
+
+            <!-- New Features Section -->
+            <tr>
+                <td style="padding:0 24px 24px 24px; font-family:Arial, Helvetica, sans-serif; color:#0B1220; background-color:#EAF3FF;">
+                    <h2 style="margin:0 0 16px 0; font-size:18px; color:#0057B8;"><br>New Features</h2>
+                
+                    <table role="presentation" width="652" align="left" cellpadding="0" cellspacing="0" border="0" style="text-align:left; table-layout:fixed; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                      <tr>
+                
+                        <!-- COLUMN 1 -->
+                        <td width="220" align="left" valign="top" style="padding:8px 8px 24px 0;">
+                          <img src="https://github.com/talaria-static-assets/INNOVATIONS-Industries/blob/main/Bild%20(15).png?raw=true"
+                               alt="Feature 1" width="200" height="120"
+                               style="width:200px; height:120px; border-radius:6px; display:block; margin:0;" />
+                          <p style="font-size:13px; line-height:19px; margin:8px 0 0 0; width:200px;">
+                            <strong>WDM & Shelf Data</strong><br>
+                            Discover new WDM data with detailed shelf and slot granularity for advanced optical network analysis.
+                          </p>
+                        </td>
+                
+                        <!-- COLUMN 2 -->
+                        <td width="220" align="left" valign="top" style="padding:8px 8px 24px 8px;">
+                          <img src="https://github.com/talaria-static-assets/talaria-static-assets.github.io/blob/main/ActiveUsers.png?raw=true"
+                               alt="Feature 2" width="200" height="120"
+                               style="width:200px; height:120px; border-radius:6px; display:block; margin:0;" />
+                          <p style="font-size:13px; line-height:19px; margin:8px 0 0 0; width:200px;">
+                            <strong>Active Users</strong><br>
+                            The NetOptimizer now displays customer relevance of network devices by displaying average 4G/5G customer counts on Basestations.
+                          </p>
+                        </td>
+                
+                        <!-- COLUMN 3 -->
+                        <td width="220" align="left" valign="top" style="padding:8px 0 24px 8px;">
+                          <img src="https://github.com/talaria-static-assets/talaria-static-assets.github.io/blob/main/Bild%20(13).png?raw=true"
+                               alt="Feature 3" width="200" height="120"
+                               style="width:200px; height:120px; border-radius:6px; display:block; margin:0;" />
+                          <p style="font-size:13px; line-height:19px; margin:8px 0 0 0; width:200px;">
+                            <strong>IS-IS Areas</strong><br>
+                            The migration from Autonomous Systems to IS-IS Areas is now complete, we have updated and removed AS-specific functionalities accordingly.
+                          </p>
+                        </td>
+                
+                      </tr>
+                    </table>
+                
+                  </td>
+                </tr>
+
+
+            <!-- Use Case Spotlight -->
+            <tr>
+              <td style="padding:24px; font-family:Arial, Helvetica, sans-serif; color:#0B1220; background-color:#FFFFFF;">
+                <h2 style="margin:0 0 12px 0; font-size:18px; color:#0057B8;">Spotlight - NetOptimizer goes TDL</h2>
+                <table role="presentation" width="652" align="center" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;">
+                  <tr>
+                    <td width="300" align="left" valign="top" style="padding-right:16px;">
+                      <img src="https://github.com/talaria-static-assets/talaria-static-assets.github.io/blob/main/Generated%20image%20(1).png?raw=true"
+                           alt="Use Case" width="300"
+                           style="max-width:300px; height:auto; border-radius:6px; display:block; margin:0;" />
+                    </td>
+                    <td width="352" valign="top" align="left">
+                      <p style="margin:0; font-size:13px; line-height:20px; color:#3A4A5E;">
+                        We have successfully migrated our data import from our long-time data source, the Oracle-based "ColumbusDB", onto the Technology Data Lake. This will make the integration and provision of new data quicker, and implements the data strategy. Thanks to everybody who made this possible!
+                            <br>
+                            <br><strong>Importantly</strong> 
+                            </p> 
+                            <p style="margin:0; font-size:11px; line-height:20px; color:#3A4A5E;"> 
+                            All processes and reports that relied on our exports to the ColumbusDB will have to switch onto the TDL as well. If you think you are affected by this, and have not taken action, please reach out to Gerrit Schönicke!
+                      </p>
+                      <ul style="margin:8px 0 0 0; padding-left:18px; font-size:11px; line-height:18px; color:#3A4A5E;">
+                        
+                      </ul>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- Future Roadmap -->
+            <tr>
+              <td style="padding:40px 24px 24px 24px; font-family:Arial, Helvetica, sans-serif; color:#0B1220; background-color:#EAF3FF;">
+                <h2 style="margin:0 0 12px 0; font-size:18px; color:#0057B8;">Future Roadmap</h2>
+                <p style="margin:0 0 12px 0; font-size:13px; line-height:20px; color:#3A4A5E;">Within the coming months, the NetOptimizer will be extended with:</p>
+                <ul style="margin:0; padding-left:18px; font-size:13px; line-height:20px; color:#3A4A5E;">
+                  <li><strong>Major Simulation Overhaul:</strong> Simulate across network domains and areas with detailed results – all within a new simulation editor. If you are interested in joining the beta phase, please contact us!</li>
+                  <li><strong>Persistent User Settings:</strong> Save your preferences, templates, and simulations effortlessly, independent of your device.</li>
+                  <li><strong>SDN Integration:</strong> New SDN controllers for MW, IP, and Optical will enhance and extend the NetOptimizer Data Model.</li>
+                  <li><strong>Self-Service Automation:</strong> The data und functionalities of the NetOptimizer, including topology data, routing paths and simulation will be made accessible through the Automation Engine, allowing users to build their own use cases through self-service.</li>
+                </ul>
+                <p style="margin-top:12px; font-size:13px; color:#3A4A5E;">Stay tuned for more!</p>
+              </td>
+            </tr>
+
+            <!-- Contact -->
+            <tr>
+              <td bgcolor="#0057B8" style="padding:24px; color:#FFFFFF; font-family:Arial, Helvetica, sans-serif; text-align:center;">
+                <h2 style="margin:0 0 8px 0; font-size:20px;">Questions or Feedback?</h2>
+                <p style="margin:0 0 14px 0; font-size:14px; line-height:22px; color:#E6EEFF;">
+                  Reach out directly to the NetOptimizer Team – we’ll get back to you shortly.
+                </p>
+                <a href="mailto:gerrit.schoenicke@telefonica.com;roman.leipe.external@telefonica.com?subject=NetOptimizer%20Contact"
+                   style="background:#00B5E2;color:#002060;display:inline-block;padding:10px 16px;font:700 14px/16px Arial,Helvetica,sans-serif;border-radius:6px;text-decoration:none;">
+                   Contact us
+                </a>
+              </td>
+            </tr>
+
+            <!-- Footer -->
+            <tr>
+              <td style="padding:24px; font-family:Arial, Helvetica, sans-serif; color:#6B7C93; font-size:11px; line-height:17px;">
+                <strong>NetOptimizer Team · Telefónica Germany</strong> · Transport Performance<br/>
+              </td>
+            </tr>
+
+          </table>
+
+          <!--[if gte mso 9]></v:textbox></v:roundrect><![endif]-->
+
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
